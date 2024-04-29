@@ -1,8 +1,6 @@
 # Ultra-Low Latency User-Plane Cyberattack Detection in SDN-based Smart Grids
 
- This repository contains the public version of the code for our work on cyberattack detection in SDN-based smart grids at line rate leveraging user-plane inference.
-
-The paper is currently under review.
+ This repository contains the public version of the code for our work on cyberattack detection in SDN-based smart grids at line rate leveraging user-plane inference. The paper has been accepted for presentation at the ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (EnergySP'24), co-located with ACM e-Energy 2024, 4 - 7 June 2024, Singapore. 
 
 ## Organization of the repository  
 There are two folders:  
